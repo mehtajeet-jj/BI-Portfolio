@@ -25,7 +25,7 @@ This repository is where I build and sharpen my own dashboard-building skills, d
 
 A grocery retail analysis project I recently revisited to keep my dashboard-building skills sharp. My day-to-day work leans on existing dashboards for deeper analysis rather than building new ones from scratch, so this project is where I practice the fundamentals: Power Query transformations, relational modeling, and core DAX measures.
 
-- ![MavenMarket Dashboard](MavenMarket/MavenMarket.png)
+![MavenMarket Dashboard](MavenMarket/MavenMarket.png)
 
 ### AdventureWorks — Advanced Executive Dashboard
 *File: [`AdventureWorks/AdventureWorks Report.pbit`](AdventureWorks/AdventureWorks%20Report.pbit)*
