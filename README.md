@@ -60,4 +60,4 @@ A more advanced project analyzing AdventureWorks' sales and customer data, built
 Download the `.pbit` files and open them in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free) to explore the interactive reports, data model, and underlying DAX.
 
 ## Contact
-**Jeet Mehta** | [LinkedIn](https://www.linkedin.com/in/jeet-mehta-jj/) | [Email](mailto:mehta.jeet78@gmail.com) (mehta.jeet78@gmail.com)
+**Jeet Mehta** | [LinkedIn](https://www.linkedin.com/in/jeet-mehta-jj/) | [Email](mailto:mehta.jeet78@gmail.com): mehta.jeet78@gmail.com
